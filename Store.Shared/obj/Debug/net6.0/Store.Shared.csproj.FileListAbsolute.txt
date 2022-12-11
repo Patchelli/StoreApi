@@ -1,0 +1,12 @@
+C:\projects\api\Store.Shared\bin\Debug\net6.0\Store.Shared.deps.json
+C:\projects\api\Store.Shared\bin\Debug\net6.0\Store.Shared.dll
+C:\projects\api\Store.Shared\bin\Debug\net6.0\Store.Shared.pdb
+C:\projects\api\Store.Shared\obj\Debug\net6.0\Store.Shared.csproj.AssemblyReference.cache
+C:\projects\api\Store.Shared\obj\Debug\net6.0\Store.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\api\Store.Shared\obj\Debug\net6.0\Store.Shared.AssemblyInfoInputs.cache
+C:\projects\api\Store.Shared\obj\Debug\net6.0\Store.Shared.AssemblyInfo.cs
+C:\projects\api\Store.Shared\obj\Debug\net6.0\Store.Shared.csproj.CoreCompileInputs.cache
+C:\projects\api\Store.Shared\obj\Debug\net6.0\Store.Shared.dll
+C:\projects\api\Store.Shared\obj\Debug\net6.0\refint\Store.Shared.dll
+C:\projects\api\Store.Shared\obj\Debug\net6.0\Store.Shared.pdb
+C:\projects\api\Store.Shared\obj\Debug\net6.0\ref\Store.Shared.dll

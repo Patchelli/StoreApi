@@ -1,0 +1,12 @@
+C:\projects\api\Store.Infra\bin\Debug\net6.0\Store.Infra.deps.json
+C:\projects\api\Store.Infra\bin\Debug\net6.0\Store.Infra.dll
+C:\projects\api\Store.Infra\bin\Debug\net6.0\Store.Infra.pdb
+C:\projects\api\Store.Infra\obj\Debug\net6.0\Store.Infra.csproj.AssemblyReference.cache
+C:\projects\api\Store.Infra\obj\Debug\net6.0\Store.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\api\Store.Infra\obj\Debug\net6.0\Store.Infra.AssemblyInfoInputs.cache
+C:\projects\api\Store.Infra\obj\Debug\net6.0\Store.Infra.AssemblyInfo.cs
+C:\projects\api\Store.Infra\obj\Debug\net6.0\Store.Infra.csproj.CoreCompileInputs.cache
+C:\projects\api\Store.Infra\obj\Debug\net6.0\Store.Infra.dll
+C:\projects\api\Store.Infra\obj\Debug\net6.0\refint\Store.Infra.dll
+C:\projects\api\Store.Infra\obj\Debug\net6.0\Store.Infra.pdb
+C:\projects\api\Store.Infra\obj\Debug\net6.0\ref\Store.Infra.dll
